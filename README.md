@@ -11,8 +11,6 @@ The details of the movies(title, genre, runtime, rating, poster, etc) are fetche
 
 Check out the live demo: https://mrswsa.herokuapp.com/
 
-Link to youtube demo: https://www.youtube.com/watch?v=dhVePtyECFw
-
 # Note
 
 ## The Movie Cinema
@@ -23,11 +21,9 @@ Link to "The Movie Cinema" application: https://the-movie-cinema.herokuapp.com/
 
 Don't worry if the movie that you are looking for is not auto-suggested. Just type the movie name and click on "enter". You will be good to go eventhough if you made some typo errors.
 
-Source Code: https://github.com/kishan0725/The-Movie-Cinema
+Source Code: https://github.com/yunu100/myrepo
 
-## Featured in Krish's Live Session on YouTube
 
-[![krish youtube](https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis/blob/master/static/krish-naik.PNG)](https://www.youtube.com/watch?v=A_78fGgQMjM)
 
 ## How to get the API key?
 
